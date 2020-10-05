@@ -18,7 +18,7 @@
 - Secret Diary [repo](https://github.com/emilyalice2708/SecretDiary)
 - Blog
 - TDD workshop challenge and validation
-- Weekene Airport Challenge and Code Review [repo](https://github.com/emilyalice2708/airport_challenge)
+- Weekend Airport Challenge and Code Review [repo](https://github.com/emilyalice2708/airport_challenge)
 
 ## Daily Goals:
 ### Wednesday:
