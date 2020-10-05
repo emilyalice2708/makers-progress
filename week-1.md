@@ -1,10 +1,10 @@
 # Week 1
 
 ## Goals:
-- Learn the basic principles of TDD and be able to test-driving simple programs.
-- Practice pair programming using the driver-navigator style.
-- Follow best practices when debugging.
-- Be able to describe basic OO principles, including encapsulation and SRP.
+- Learn the basic principles of TDD and be able to test-driving simple programs. ✔️
+- Practice pair programming using the driver-navigator style. ✔️
+- Follow best practices when debugging. ✔️
+- Be able to describe basic OO principles, including encapsulation and SRP. ✔️
 
 ## Plans:
 - Pair on Boris Bike challenge with a different person for three hours every day.
@@ -17,7 +17,7 @@
 - Boris Bikes [repo](https://github.com/emilyalice2708/boris-bikes)
 - Secret Diary [repo](https://github.com/emilyalice2708/SecretDiary)
 - Blog
-- TDD workshop challenge and validation
+- TDD workshop challenge and validation 
 - Weekend Airport Challenge and Code Review [repo](https://github.com/emilyalice2708/airport_challenge)
 
 ## Daily Goals:
