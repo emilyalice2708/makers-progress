@@ -2,16 +2,16 @@
 
 
 ## Goals:
-- Practice skills from week 1.
-- Be able to break one class into two, without compromising test coverage.
-- Understand how to unit test classes in isolation with mocking.
+- Practice skills from week 1. ✔️
+- Be able to break one class into two, without compromising test coverage. 
+- Understand how to unit test classes in isolation with mocking. ✔️
 - Explain basic OO principles and tie them to high level concerns.
-- Review another person's code and give meaningful feedback.
+- Review another person's code and give meaningful feedback.✔️
 
 ## Plans:
-- Complete practical from week 2 (Testing OO relationships using Mocking). ✔️
+- Complete practical from week 2 (Testing OO relationships using Mocking). 
 - Complete practical from week 2 (Dependency Injection).
-- Take part in Code Review workshop. ✔️
+- Take part in Code Review workshop. 
 - Research 4 main OO principles: encapsulation, polymorphism, abstraction, inheritance.
 
 ## Evidence:
