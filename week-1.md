@@ -39,4 +39,4 @@
 ### Weekend:
 - Goal: Reinforce understanding of TDD and encapsulation.
 - Plan: Complete the airport challenge using TDD and encapsulation principles.
-- Evidence: Link to Airport challenge: [repo](https://github.com/emilyalice2708/airport_challenge. Code review with Makers).
+- Evidence: Link to Airport challenge: [repo](https://github.com/emilyalice2708/airport_challenge). Code review with Makers.
