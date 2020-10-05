@@ -14,10 +14,11 @@
 - Write down clear and concise processes for TDD and debugging.
 
 ## Evidence:
-- Boris Bikes
-- Secret Diary
+- Boris Bikes [repo](https://github.com/emilyalice2708/boris-bikes)
+- Secret Diary [repo](https://github.com/emilyalice2708/SecretDiary)
 - Blog
 - TDD workshop challenge and validation
+- Weekene Airport Challenge and Code Review [repo](https://github.com/emilyalice2708/airport_challenge)
 
 ## Daily Goals:
 ### Wednesday:
@@ -33,9 +34,9 @@
 ### Friday:
 - Goal: Improve TDD understanding and practice using rpsec.
 - Plan: Work on Boris Bikes, following TDD principles and refer to rspec documentation to improve tests.
-- Evidence: Feedback from pair partner and coach validation, passing tests using mocks and doubles on Boris Bikes challenge. Link to boris-bikes repo: https://github.com/emilyalice2708/boris-bikes.
+- Evidence: Feedback from pair partner and coach validation, passing tests using mocks and doubles on Boris Bikes challenge. Link to boris-bikes: [repo](https://github.com/emilyalice2708/boris-bikes).
 
 ### Weekend:
 - Goal: Reinforce understanding of TDD and encapsulation.
 - Plan: Complete the airport challenge using TDD and encapsulation principles.
-- Evidence: Link to repo: https://github.com/emilyalice2708/airport_challenge. Code review with Makers.
+- Evidence: Link to Airport challenge: [repo](https://github.com/emilyalice2708/airport_challenge. Code review with Makers).
