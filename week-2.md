@@ -17,10 +17,15 @@
 ## Evidence:
 - Oyster challenge
 - Take Away challenge
-- Completed practicals and coach validation.
+- Completed practicals and coach validation [Testing OO relationships using Mocking](https://github.com/emilyalice2708/testing_relationships_between_classes)
 
 ## Daily Goals:
 ### Monday:
 - Goal: Gain a better understanding of use of doubles with rspec.
 - Plan: Complete week 2 practical, Testing OO relationships using Mocking.
 - Evidence: Zoom call with coach to talk through the practical and my solution.
+
+### Tuesday:
+- Goal: Become a better planner.
+- Plan: Watch coach video on planning, attend diagramming workshop.
+- Evidence: Record the process of coding a challenge from the process workshop and ask for feedback from coach.
