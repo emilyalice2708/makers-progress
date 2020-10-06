@@ -17,8 +17,11 @@
 ## Evidence:
 - Oyster challenge
 - Take Away challenge
-- Completed practicals and coach validation [Testing OO relationships using Mocking](https://github.com/emilyalice2708/testing_relationships_between_classes)
-
+- Completed practicals and coach validation.
+- Practical repos: 
+  - [Testing OO relationships using Mocking](https://github.com/emilyalice2708/testing_relationships_between_classes)
+  - [Dependency Injection](https://github.com/emilyalice2708/dependency_injection_practical)
+  
 ## Daily Goals:
 ### Monday:
 - Goal: Gain a better understanding of use of doubles with rspec.
