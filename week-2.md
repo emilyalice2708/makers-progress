@@ -26,6 +26,6 @@
 - Evidence: Zoom call with coach to talk through the practical and my solution.
 
 ### Tuesday:
-- Goal: Become a better planner.
-- Plan: Watch coach video on planning, attend diagramming workshop.
-- Evidence: Record the process of coding a challenge from the process workshop and ask for feedback from coach.
+- Goal: Become a better planner and get some more practice using rspec.
+- Plan: Watch coach video on planning, attend diagramming workshop, begin work on Dependency Injection practical.
+- Evidence: Record the process of coding a challenge from the process workshop and ask for feedback from coach, [link](https://github.com/emilyalice2708/dependency_injection_practical) to Dependency Injection repo.
