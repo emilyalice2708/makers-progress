@@ -32,3 +32,13 @@
 - Goal: Become a better planner and get some more practice using rspec.
 - Plan: Watch coach video on planning, attend diagramming workshop, begin work on Dependency Injection practical.
 - Evidence: Record the process of coding a challenge from the process workshop and ask for feedback from coach, [link](https://github.com/emilyalice2708/dependency_injection_practical) to Dependency Injection repo.
+
+### Wednesday:
+- Goal: Gain a better understanding of OO principles.
+- Plan: Work on the OO Relationships (Forwarding, Polymorphism) practical.
+- Evidence: Get some feedback from a coach.
+
+## Thursday:
+- Goal: Cement what I've learnt so far about TDD and OO principles.
+- Plan: Revisit practicals and process workshop challenge and use coach feedback to guide my focus.
+- Evidence: Have a conversation with a coach to verify that I am on the right track.
