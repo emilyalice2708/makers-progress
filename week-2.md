@@ -39,6 +39,6 @@
 - Evidence: Get some feedback from a coach.
 
 ## Thursday:
-- Goal: Cement what I've learnt so far about TDD and OO principles.
-- Plan: Revisit practicals and process workshop challenge and use coach feedback to guide my focus.
-- Evidence: Have a conversation with a coach to verify that I am on the right track.
+- Goal: Cement what I've learnt so far about TDD and OO principles and gain a basic understanding of delegation.
+- Plan: Revisit practicals and process workshop challenge and use coach feedback to guide my focus, take part in the delegation skills workshop.
+- Evidence: Have a conversation with a coach to verify that I am on the right track, compare delegation work with the solutions.
