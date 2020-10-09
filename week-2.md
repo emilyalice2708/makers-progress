@@ -3,21 +3,22 @@
 
 ## Goals:
 - Practice skills from week 1. ✔️
-- Be able to break one class into two, without compromising test coverage. 
+- Be able to break one class into two, without compromising test coverage. ✔️
 - Understand how to unit test classes in isolation with mocking. ✔️
-- Explain basic OO principles and tie them to high level concerns.
+- Explain basic OO principles and tie them to high level concerns. ✔️
 - Review another person's code and give meaningful feedback.✔️
 
 ## Plans:
 - Complete practical from week 2 (Testing OO relationships using Mocking). 
 - Complete practical from week 2 (Dependency Injection).
+- Work on Mocking Skills workshop.
 - Take part in Code Review workshop. 
 - Research 4 main OO principles: encapsulation, polymorphism, abstraction, inheritance.
 
 ## Evidence:
 - Oyster challenge
 - Take Away challenge
-- Completed practicals and coach validation.
+- Completed practicals and coach validation (zoom call).
 - Practical repos: 
   - [Testing OO relationships using Mocking](https://github.com/emilyalice2708/testing_relationships_between_classes)
   - [Dependency Injection](https://github.com/emilyalice2708/dependency_injection_practical)
@@ -44,6 +45,6 @@
 - Evidence: Have a conversation with a coach to verify that I am on the right track, compare delegation work with the solutions.
 
 ## Friday:
-- Goal: Practice extracting one class into two without compromising test coverage.
-- Plan: Work through Oyster challenge.
+- Goal: Practice extracting one class into two without compromising test coverage, improve understanding of mocking and dependency injection.
+- Plan: Work through Oyster challenge, complete final exercises on Dependency Injection practical, begin working through Mocking skills workshop.
 - Evidence: Chat with cohort and compare our work to decipher whether we could improve our own and whether we have compromised testing during extraction.
