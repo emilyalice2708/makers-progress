@@ -42,3 +42,8 @@
 - Goal: Cement what I've learnt so far about TDD and OO principles and gain a basic understanding of delegation.
 - Plan: Revisit practicals and process workshop challenge and use coach feedback to guide my focus, take part in the delegation skills workshop.
 - Evidence: Have a conversation with a coach to verify that I am on the right track, compare delegation work with the solutions.
+
+## Friday:
+- Goal: Practice extracting one class into two without compromising test coverage.
+- Plan: Work through Oyster challenge.
+- Evidence: Chat with cohort and compare our work to decipher whether we could improve our own and whether we have compromised testing during extraction.
