@@ -16,7 +16,7 @@
 - Research 4 main OO principles: encapsulation, polymorphism, abstraction, inheritance.
 
 ## Evidence:
-- Oyster challenge
+- Oyster challenge [repo](https://github.com/emilyalice2708/oystercard-challenge)
 - Take Away challenge
 - Completed practicals and coach validation (zoom call).
 - Practical repos: 
