@@ -17,6 +17,8 @@
 - Work on Battle challenge with different pairs throughout the week
 - Work on RPS weekend challenge alone
 - Attend workshops
+- Complete Servers practical
+- Outside reading
 
 ## Evidence:
 - Battle
@@ -28,14 +30,14 @@
 - Evidence: Feedback during code review.
 
 ### Tuesday:
-- Goal: Understand the MVC pattern.
-- Plan: Work on web project in the afternoon.
+- Goal: Gain a basic understanding of the MVC pattern and improve understanding of process modelling (applied to HTTP reequest/response).
+- Plan: Take part in Process Modelling morning workshop and work on web project in the afternoon.
 - Evidence: Check your understanding with a coach.
 
 ### Wednesday:
-- Goal: 
-- Plan:
-- Evidence:
+- Goal: Improve understanding of Sinatra 
+- Plan: Research and practice
+- Evidence: Apply to the pair programming Battle session this afternoon and check understanding with cohort/coaches.
 
 ## Thursday:
 - Goal: 
