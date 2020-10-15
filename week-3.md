@@ -40,9 +40,9 @@
 - Evidence: Apply to the pair programming Battle session this afternoon and check understanding with cohort/coaches.
 
 ## Thursday:
-- Goal: 
-- Plan: 
-- Evidence: 
+- Goal: Debug a web application.
+- Plan: Take part in the debugging workshop.
+- Evidence: Completed challenge and then compared by thought process to the coach's explanations.
 
 ## Friday:
 - Goal: 
