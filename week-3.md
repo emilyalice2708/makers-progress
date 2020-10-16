@@ -21,8 +21,9 @@
 - Outside reading
 
 ## Evidence:
-- Battle
-  
+- Battle [repo](https://github.com/emilyalice2708/battle)
+- Small web app project - Macronutrient calculator [repo](https://github.com/emilyalice2708/macro-calculator)
+
 ## Daily Goals:
 ### Monday:
 - Goal: Improve understanding of extracting classes and gain a basic understanding of how the web works.
@@ -42,9 +43,9 @@
 ## Thursday:
 - Goal: Debug a web application.
 - Plan: Take part in the debugging workshop.
-- Evidence: Completed challenge and then compared by thought process to the coach's explanations.
+- Evidence: Completed challenge and then compared my thought process to the coach's explanations.
 
 ## Friday:
-- Goal: 
-- Plan:
-- Evidence:
+- Goal: Cement basic understanding of MVC and Sinatra. 
+- Plan: Create a small web app project in the morning and pair for Battle project in the afternoon.
+- Evidence: Created a functioning Macronutrients calculator from scratch and completed Battle project, discussed logic of each project with pair partner in afternoon.
