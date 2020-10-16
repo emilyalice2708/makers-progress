@@ -23,7 +23,7 @@
 ### Wednesday:
 - Goal: Understand the concepts of encapsulation and cohesion and be able to implement them.
 - Plan: Work on secret diary challenge
-- Evidence: Validation from coach, link to repo:
+- Evidence: Validation from coach.
 
 ### Thursday:
 - Goal: Understand TDD and be able to test-drive a simple program.
@@ -33,9 +33,9 @@
 ### Friday:
 - Goal: Improve TDD understanding and practice using rpsec.
 - Plan: Work on Boris Bikes, following TDD principles and refer to rspec documentation to improve tests.
-- Evidence: Feedback from pair partner and coach validation, passing tests using mocks and doubles on Boris Bikes challenge. Link to boris-bikes: [repo](https://github.com/emilyalice2708/boris-bikes).
+- Evidence: Feedback from pair partner and coach validation, passing tests using mocks and doubles on Boris Bikes challenge.
 
 ### Weekend:
 - Goal: Reinforce understanding of TDD and encapsulation.
 - Plan: Complete the airport challenge using TDD and encapsulation principles.
-- Evidence: Link to Airport challenge: [repo](https://github.com/emilyalice2708/airport_challenge). Code review with Makers.
+- Evidence: Airport challenge completetion and code review with Makers.
