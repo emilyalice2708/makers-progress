@@ -17,7 +17,7 @@
 
 ## Evidence:
 - Oyster challenge [repo](https://github.com/emilyalice2708/oystercard-challenge)
-- Take Away challenge
+- Take Away challenge [repo](https://github.com/emilyalice2708/takeaway-challenge)
 - Completed practicals and coach validation (zoom call).
 - Practical repos: 
   - [Testing OO relationships using Mocking](https://github.com/emilyalice2708/testing_relationships_between_classes)
