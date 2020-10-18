@@ -8,8 +8,9 @@
 
 ## Plans:
 - Pair on Boris Bike challenge with a different person for three hours every day.
-- Debugging and TDD workshops.
-- Work through recommended OO practicals and do outside reading.
+- Attend workshops: Debugging and TDD.
+- Work through recommended OO practicals.
+- Outside reading.
 - Maintain best practices throughout every exercise.
 - Write down clear and concise processes for TDD and debugging.
 
@@ -22,7 +23,7 @@
 ## Daily Goals:
 ### Wednesday:
 - Goal: Understand the concepts of encapsulation and cohesion and be able to implement them.
-- Plan: Work on secret diary challenge
+- Plan: Work on secret diary challenge.
 - Evidence: Validation from coach.
 
 ### Thursday:
