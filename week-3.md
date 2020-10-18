@@ -17,7 +17,7 @@
 - Work on Battle challenge with different pairs throughout the week
 - Work on RPS weekend challenge alone
 - Attend workshops: Web Kick-off, Process Modelling, Debugging Web Apps
-- Work through Servers, Clients and HTTP Servers practicals
+- Work through practicals: Servers, Clients and HTTP Servers
 - Create a simple web app of my own choice
 - Outside reading
 
