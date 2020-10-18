@@ -17,7 +17,7 @@
 ## Evidence:
 - Boris Bikes - [repo](https://github.com/emilyalice2708/boris-bikes)
 - Secret Diary - [repo](https://github.com/emilyalice2708/SecretDiary)
-- TDD workshop challenge and validation 
+- TDD workshop challenge and validation.
 - Weekend Airport Challenge and Code Review - [repo](https://github.com/emilyalice2708/airport_challenge)
 
 ## Daily Goals:
