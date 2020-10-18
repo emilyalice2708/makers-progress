@@ -39,12 +39,12 @@
 - Plan: Work on the OO Relationships (Forwarding, Polymorphism) practical.
 - Evidence: Get some feedback from a coach.
 
-## Thursday:
+### Thursday:
 - Goal: Cement what I've learnt so far about TDD and OO principles and gain a basic understanding of delegation.
 - Plan: Revisit practicals and process workshop challenge and use coach feedback to guide my focus, take part in the delegation skills workshop.
 - Evidence: Have a conversation with a coach to verify that I am on the right track, compare delegation work with the solutions.
 
-## Friday:
+### Friday:
 - Goal: Practice extracting one class into two without compromising test coverage, improve understanding of mocking and dependency injection.
 - Plan: Work through Oyster challenge, complete final exercises on Dependency Injection practical, begin working through Mocking skills workshop.
 - Evidence: Chat with cohort and compare our work to decipher whether we could improve our own and whether we have compromised testing during extraction.
