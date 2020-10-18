@@ -32,7 +32,7 @@
 ### Tuesday:
 - Goal: Become a better planner and get some more practice using rspec.
 - Plan: Watch coach video on planning, attend diagramming workshop, begin work on Dependency Injection practical.
-- Evidence: Record the process of coding a challenge from the process workshop and ask for feedback from coach, [link](https://github.com/emilyalice2708/dependency_injection_practical) to Dependency Injection repo.
+- Evidence: Record the process of coding a challenge from the process workshop and ask for feedback from coach.
 
 ### Wednesday:
 - Goal: Gain a better understanding of OO principles.
