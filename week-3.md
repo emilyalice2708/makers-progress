@@ -42,12 +42,12 @@
 - Plan: Research and practice.
 - Evidence: Apply to the pair programming Battle session this afternoon and check understanding with cohort/coaches.
 
-## Thursday:
+### Thursday:
 - Goal: Debug a web application.
 - Plan: Take part in the debugging workshop.
 - Evidence: Completed challenge and then compared my thought process to the coach's explanations.
 
-## Friday:
+### Friday:
 - Goal: Cement basic understanding of MVC and Sinatra. 
 - Plan: Create a small web app project in the morning and pair for Battle project in the afternoon.
 - Evidence: Created a functioning Macronutrients calculator from scratch and completed Battle project, discussed logic of each project with pair partner in afternoon.
