@@ -25,6 +25,7 @@
 - Battle - [repo](https://github.com/emilyalice2708/battle)
 - Small web app project - Macronutrient calculator - [repo](https://github.com/emilyalice2708/macro-calculator)
 - Rock, Paper, Scissors weekend challenge - [repo](https://github.com/emilyalice2708/rps-challenge)
+- Coach validation and code review feedback.
 
 ## Daily Goals:
 ### Monday:
