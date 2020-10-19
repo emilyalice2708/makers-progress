@@ -18,9 +18,9 @@
 
 ## Daily Goals:
 ### Monday:
-- Goal:
-- Plan: 
-- Evidence: 
+- Goal: Become familiar with the basics of SQL and PSQL.
+- Plan: Work on Entity Relationship Diagrams and practcie with SQL Zoo.
+- Evidence: Apply learning to pair programming in the afternoon and compare work with walkthroughs. 
 
 ### Tuesday:
 - Goal:
