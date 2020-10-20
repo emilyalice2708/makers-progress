@@ -32,12 +32,12 @@
 - Plan: Start work on the Diary App project.
 - Evidence: Ask a coach for feedback.
 
-## Thursday:
+### Thursday:
 - Goal:
 - Plan: 
 - Evidence: 
 
-## Friday:
+### Friday:
 - Goal:
 - Plan: 
 - Evidence: 
