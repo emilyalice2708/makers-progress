@@ -13,7 +13,7 @@
 - Outside reading
 
 ## Evidence:
-- Bookmark Manager
+- Bookmark Manager - [repo](https://github.com/emilyalice2708/bookmark-manager)
 - Chitter
 
 ## Daily Goals:
@@ -23,14 +23,14 @@
 - Evidence: Apply learning to pair programming in the afternoon and compare work with walkthroughs. 
 
 ### Tuesday:
-- Goal:
-- Plan: 
-- Evidence: 
+- Goal: Improve SQL and HTTP request understanding.
+- Plan: Work through REST skills workshop, practice SQL using SQL murder mystery and pair program in afternoon for Bookmark Manager.
+- Evidence: Conversation with pair in afternoon to ensure understanding, apply practice to the project and check work against walkthroughs.
 
 ### Wednesday:
-- Goal:
-- Plan: 
-- Evidence: 
+- Goal: Become comfortable working on my own web app with a database without guidance.
+- Plan: Start work on the Diary App project.
+- Evidence: Ask a coach for feedback.
 
 ## Thursday:
 - Goal:
