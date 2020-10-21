@@ -29,7 +29,7 @@
 
 ### Wednesday:
 - Goal: Become comfortable working on my own web app with a database without guidance.
-- Plan: Start work on the Diary App project.
+- Plan: Attend the Database Domain Modelling workshop and start work on the Diary App project.
 - Evidence: Ask a coach for feedback.
 
 ### Thursday:
