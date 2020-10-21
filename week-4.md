@@ -28,7 +28,7 @@
 - Evidence: Conversation with pair in afternoon to ensure understanding, apply practice to the project and check work against walkthroughs.
 
 ### Wednesday:
-- Goal: Become comfortable working on my own web app with a database without guidance.
+- Goal: Become comfortable planning and working on my own web app with a database without guidance.
 - Plan: Attend the Database Domain Modelling workshop and start work on the Diary App project.
 - Evidence: Ask a coach for feedback.
 
