@@ -33,8 +33,8 @@
 - Evidence: Ask a coach for feedback.
 
 ### Thursday:
-- Goal:
-- Plan: 
+- Goal: Understand how to wrap database data into program objects.
+- Plan: Work through step 11 of the Bookmarks Manager project and continue work on Diary project.
 - Evidence: 
 
 ### Friday:
