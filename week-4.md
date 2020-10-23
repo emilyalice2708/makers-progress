@@ -1,9 +1,9 @@
 # Week 4
 
 ## Goals:
-- Build a simple web app with a database.
-- Follow an effective debugging process for database applications.
-- Explain the basics of how databases work (e.g. tables, SQL, basic relationships).
+- Build a simple web app with a database. ✔️
+- Follow an effective debugging process for database applications. ✔️
+- Explain the basics of how databases work (e.g. tables, SQL, basic relationships). ✔️
 
 ## Plans:
 - Work on Bookmark Manager challenge with different pairs throughout the week.
@@ -35,9 +35,9 @@
 ### Thursday:
 - Goal: Understand how to wrap database data into program objects.
 - Plan: Work through step 11 of the Bookmarks Manager project and continue work on Diary project.
-- Evidence: 
+- Evidence: Feedback from pair partner and solution comparison.
 
 ### Friday:
-- Goal:
-- Plan: 
-- Evidence: 
+- Goal: Learn how to work with connected tables with foreign keys.
+- Plan: Work through steps 16 and 17 of the Bookmark Manager project.
+- Evidence: Complete the user requirement of adding tags and ensure tests are all passing, show work to a coach for validaion.
