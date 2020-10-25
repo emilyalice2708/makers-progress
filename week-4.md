@@ -14,7 +14,7 @@
 
 ## Evidence:
 - Bookmark Manager - [repo](https://github.com/emilyalice2708/bookmark-manager)
-- Chitter
+- Chitter -[repo](https://github.com/emilyalice2708/chitter-challenge)
 
 ## Daily Goals:
 ### Monday:
