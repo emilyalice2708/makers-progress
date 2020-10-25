@@ -40,4 +40,4 @@
 ### Friday:
 - Goal: Learn how to work with connected tables with foreign keys.
 - Plan: Work through steps 16 and 17 of the Bookmark Manager project.
-- Evidence: Complete the user requirement of adding tags and ensure tests are all passing, show work to a coach for validaion.
+- Evidence: Complete the user requirement of adding tags and ensure tests are all passing, show work to a coach for validation.
