@@ -5,7 +5,7 @@
 - Follow an effective process for learning a new language.
 
 ## Plans:
-- Work as part of a team to create MakersBnB
+-
 
 ## Evidence:
 -
