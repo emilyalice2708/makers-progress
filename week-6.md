@@ -5,13 +5,10 @@
 - Follow an effective process for learning a new language.
 
 ## Plans:
-- Work on Thermostat challenge with different pairs throughout the week.
-- Work on Bowling weekend challenge alone.
-- Work through practicals: Learning a new language by translation, Explore asynchronicity in Javascript and Closures.
+- Work as part of a team to create MakersBnB
 
 ## Evidence:
-- Thermostat -
-- Bowling -
+-
 
 ## Daily Goals:
 ### Monday:
