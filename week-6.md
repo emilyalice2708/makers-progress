@@ -1,4 +1,4 @@
-# Week 5
+# Week 6
 
 ## Goals:
 - Test drive a simple front-end web app with Javascript.
