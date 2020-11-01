@@ -12,6 +12,8 @@
 
 ## Evidence:
 - End of the week demo day and peer feedback.
+- Bowling challenge - [repo (solution 1)](https://github.com/emilyalice2708/bowling-challenge-ruby)
+- Bowling challenge - [repo (solution 2)](https://github.com/emilyalice2708/simpler-bowling)
 
 ## Daily Goals:
 ### Monday:
