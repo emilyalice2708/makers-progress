@@ -26,6 +26,7 @@ The Count Projects:
 - Rewrite fizzbuzz and the Airport challenge in Javascript.
 - Work on the Thermostat challenge in pairs in the afternoons.
 - Work on the Bowling challenge again in Javascript at the weekend.
+- Attend workshops: Javascript Kick-Off, Following the flow and getting visibility in JavaScript.
 
 ## Evidence:
 - Airport in Javascipt challenge - (repo)
@@ -37,9 +38,9 @@ The Count Projects:
 - Evidence: Tested functionality in the browser and spoke to cohort for validation.
 
 ### Tuesday:
-- Goal: 
-- Plan: 
-- Evidence: 
+- Goal: Improve at debugging in Javascript.
+- Plan: Attent the 'Following the flow and getting visibility in Javascript' workshop and complete the task.
+- Evidence: Succesfully debugged the fizzbuzz program (program now running as expected in the brow
 
 ### Wednesday:
 - Goal: 
