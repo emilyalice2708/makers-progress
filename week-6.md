@@ -29,7 +29,7 @@ The Count Projects:
 - Attend workshops: Javascript Kick-Off, Following the flow and getting visibility in JavaScript.
 
 ## Evidence:
-- Airport in Javascipt challenge - (repo)
+- Airport in Javascipt challenge - [repo](https://github.com/emilyalice2708/airport-challenge-javascript)
 
 ## Daily Goals:
 ### Monday:
@@ -40,7 +40,7 @@ The Count Projects:
 ### Tuesday:
 - Goal: Improve at debugging in Javascript.
 - Plan: Attent the 'Following the flow and getting visibility in Javascript' workshop and complete the task.
-- Evidence: Succesfully debugged the fizzbuzz program (program now running as expected in the brow
+- Evidence: Succesfully debugged the fizzbuzz program (program now running as expected in the browser).
 
 ### Wednesday:
 - Goal: 
