@@ -39,12 +39,12 @@ The Count Projects:
 
 ### Tuesday:
 - Goal: Improve at debugging in Javascript.
-- Plan: Attent the 'Following the flow and getting visibility in Javascript' workshop and complete the task.
+- Plan: Attend the 'Following the flow and getting visibility in Javascript' workshop and complete the task.
 - Evidence: Succesfully debugged the fizzbuzz program (program now running as expected in the browser).
 
 ### Wednesday:
-- Goal: 
-- Plan: 
+- Goal: Learn the basics of JQuery.
+- Plan: Work on JQuery step of the Thermostat challenge.
 - Evidence: 
 
 ### Thursday:
