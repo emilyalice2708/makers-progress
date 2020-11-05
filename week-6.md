@@ -30,6 +30,7 @@ The Count Projects:
 
 ## Evidence:
 - Airport in Javascipt challenge - [repo](https://github.com/emilyalice2708/airport-challenge-javascript)
+- Thermostat challenge -[repo](https://github.com/emilyalice2708/theromstat)
 
 ## Daily Goals:
 ### Monday:
@@ -43,14 +44,14 @@ The Count Projects:
 - Evidence: Succesfully debugged the fizzbuzz program (program now running as expected in the browser).
 
 ### Wednesday:
-- Goal: Learn the basics of JQuery.
-- Plan: Work on JQuery step of the Thermostat challenge.
-- Evidence: 
+- Goal: Learn the basics of jQuery.
+- Plan: Work on jQuery step of the Thermostat challenge.
+- Evidence: My thermostat project is now up and running.
 
 ### Thursday:
-- Goal: 
-- Plan: 
-- Evidence: 
+- Goal: Understand how JSON works, improve understanding of callbacks in javascript and learn how save the state of my thermostat project.
+- Plan: Take part in the 'Callbacks and Following the Flow of Control' workshop and work on the thermostat challenge alone in the morning and in my pair in the afternoon.
+- Evidence: Zoom call with a coach to validate understanding.
 
 ### Friday:
 - Goal: 
