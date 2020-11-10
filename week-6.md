@@ -54,6 +54,6 @@ The Count Projects:
 - Evidence: Zoom call with a coach to validate understanding.
 
 ### Friday:
-- Goal: 
-- Plan: 
-- Evidence: 
+- Goal: Use Sinatra to create a server for thermostat project.
+- Plan: Work on the final step of the thermostat project.
+- Evidence: Zoom call with a coach to talk through the solution example git repo and validate understanding.
