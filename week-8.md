@@ -16,9 +16,6 @@
 - Remain focused on the project criteria and continue to use TDD.
 - Focus on learning rather than completion of the project.
 
-## Evidence:
-- Notes app challenge
-
 ## Acebook Progress
 ### Monday:
 - Goals: Create a plan and team charter, decide on a minimum viable product and set up dependencies and Travis.
