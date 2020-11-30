@@ -1,7 +1,7 @@
 # Week 10
 
 ## Goals:
--  Focus on:
+Focus on:
   - Planning and documenting
   - Readability
   - SRP, encapsulation, DRY, good-naming
