@@ -25,6 +25,8 @@
 - Evidence: [link](https://github.com/emilyalice2708/bank-test-javascript) to first drafted of project.
 
 ### Tuesday:
+- Goal: Improve my code quality.
+- Plan: Submit first attempt at the bank tech test for review and use feedback to guide next steps.
 
 ### Wednesday:
 
