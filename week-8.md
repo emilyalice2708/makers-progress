@@ -35,3 +35,7 @@
 
 ### Friday:
 - Goals: Add Likes functionality and connect comments to the associated User.
+
+### End of Unit Challenge:
+Goals: Use Rails to produce a basic version of Instagram, cement understanding of the MVC structure in Rails and use Devise to set up user functionality.
+Evidence: [link](https://github.com/emilyalice2708/instagram-challenge) to repo.
