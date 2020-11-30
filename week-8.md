@@ -21,7 +21,7 @@
 ### Monday:
 - Goals: Create a plan and team charter, decide on a minimum viable product and set up dependencies and Travis.
 - Reflections: 
-  - Travis is a little more complicated then originally thought and has beenn added to tomorrow's to-do list.
+  - Travis is a little more complicated then originally thought and has been added to tomorrow's to-do list.
 
 ### Tuesday:
 - Goals: Finish Travis set-up and begin using TDD to create a signup function.
