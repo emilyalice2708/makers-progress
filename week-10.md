@@ -1,12 +1,12 @@
 # Week 10
 
 ## Goals:
-Focus on:
+Focus on improving:
   - Planning and documenting
   - Readability
   - SRP, encapsulation, DRY, good-naming
   - TDD, high test-coverage, testing behaviour and not state, testing for edge cases
-  - Good git commits with descriptive messages.
+  - Good git commits with descriptive messages
   - A good README
  
  ## Personal goals:
@@ -14,19 +14,19 @@ Focus on:
  - Practice testing with jest
 
 ## Plans:
-- Work on the bank test tech and use coaches feedback to improve.
+- Work on the bank test tech and use coaches feedback to improve
 
 ## Evidence:
 
 ## Daily Goals:
 ### Monday:
-- Goal: Cement understanding of Jest as a testing framework.
-- Plan: Begin working on the bank tech test in Javascript using TDD.
-- Evidence: [link](https://github.com/emilyalice2708/bank-test-javascript) to first drafted of project.
+- Goal: Cement understanding of Jest as a testing framework
+- Plan: Begin working on the bank tech test in Javascript using TDD
+- Evidence: [link](https://github.com/emilyalice2708/bank-test-javascript) to first drafted of project
 
 ### Tuesday:
-- Goal: Improve my code quality.
-- Plan: Submit first attempt at the bank tech test for review and use feedback to guide next steps.
+- Goal: Improve my code quality
+- Plan: Submit first attempt at the bank tech test for review and use feedback to guide next steps
 
 ### Wednesday:
 
