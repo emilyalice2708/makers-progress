@@ -30,14 +30,18 @@
 - Goals:
   - Replace sessions with Jason Web Tokens while maintaining test coverage.
   - Add authentication token functionality to React frontend and requests posts (Gonzalo and Charlie).
- Reflections:
-  - Maintaining test-coverage on the backend was time-consuming but important, we prioritised our test-coverage over project progress. 
-
-### Friday:
-- Goals: 
   - Work together as a group to ensure frontend and backend work together.
   - Use bootstrap to add styling.
   - Retrieve comments and likes.
-- Reflections:
+ Reflections:
+  - Maintaining test-coverage on the backend was time-consuming but important, we prioritised our test-coverage over project progress. 
   - Staying up until 3am is tiring but sometimes worth it.
   - We didn't manage to implement the functionality that would allow a user to like or comment on a post, but test-coverage on the frontend was already lagging, and pushing ahead to spike this would have likely results in lowering the code quality given our time constraints.
+
+### Friday:
+- Goals: 
+  - Create a presentation and present our project during the demo.
+  - Use the afternoon to learn Cypress and begin feature testing the frontend.
+- Reflections:
+  - Cypress seems like a fantastic tool that we wished we'd discovered earlier in the week.
+  - Next time I would prefer to focus more heavily on testing with the front-end. Given the short time period between the surprise addition to the criteria and our intro to React, we prioritised completing a functioning front end above maintaing test-coverage.
