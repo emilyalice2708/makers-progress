@@ -15,6 +15,7 @@
 ## Plans:
 - Remain focused on the project criteria and continue to use TDD.
 - Focus on learning rather than completion of the project.
+- Use the weekend challenge to practice using Rails as a framework.
 
 ## Acebook Progress
 ### Monday:
